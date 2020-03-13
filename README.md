@@ -40,8 +40,8 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <p>Je určena pro pokročilejší žáky 7. až 9. tříd základních škol a pro neelektrotechnicky zaměřené školy střední.</p>
 <h2>Obsah</h2>
 <ol>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/Experiments/MicroBit/00-Uvod"> Úvod</a>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/Experiments/MicroBit/01-LED"> Práce s vestavěným LED displejem</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/00-Uvod"> Úvod</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/01-LED"> Práce s vestavěným LED displejem</a>
 <ul>
 <li>Zobrazování textu
 <li>Zobrazení obrázků vestavěných i vlastních
