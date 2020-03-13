@@ -47,31 +47,31 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <li>Zobrazení obrázků vestavěných i vlastních
 <li>Animace
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button"> Použití vestavěných tlačítek</a>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">Práce se zvukem</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/02-Button"> Použití vestavěných tlačítek</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/03-Sound">Práce se zvukem</a>
 <ul>
 <li>Přehrání vestavěných melodií
 <li>Tvorba vlastních melodií
 <li>Generování řeči
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/04-Poloha">Orientace micro:bitu v prostoru</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/04-Poloha">Orientace micro:bitu v prostoru</a>
 <ul>
 <li>Použití vestavěného akcelerometru
 <li>Využití gest
 <li>Použití vestavěného kompasu
 <li>Měření magnetického pole
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/05-Sit">Propojení micro:bitů v síti</a>
+<li><a href="https://jipech/PRIM-microbit/tree/master/05-Sit">Propojení micro:bitů v síti</a>
 <ul>
 <li>Přímé propojení pomocí kabelu
 <li>Bezdrátové propojení pomocí rádia
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/06-Periferie">Práce s perifériemi</a>
+<li><a href="https://jipech/PRIM-microbit/tree/master/06-Periferie">Práce s perifériemi</a>
 <ul>
 <li>Ovládání trojbarevné diody
 <li>Měření teploty pomocí externího čidla
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver">Závěrečný příklad</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/07-Zaver">Závěrečný příklad</a>
 </ul>
 </ol>
 </article>
