@@ -37,7 +37,7 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 
 <h1><a id="user-content-microbit" class="anchor" aria-hidden="true" href="#microbit"></a>MicroBit</h1>
 <p>Učebnice MicroBit je zaměřena na výuku programování MicroPythonu za pomocí vývojové desky Microbit.</p>
-<p>Je určena pro pokročilejší žáky 7. až 9. tříd základních škol a pro neelektrotechnicky zaměřené školy střední.</p>
+<p>Je určena pro pokročilejší žáky 8. až 9. tříd základních škol, nižší ročníky osmiletcýh gymnázií (tercie, kvarta), zájmové kroužky (13 let a výše) a pro neelektrotechnicky zaměřené školy střední.</p>
 <h2>Obsah</h2>
 <ol>
 <li><a href="https://github.com/jipech/PRIM-microbit/tree/master/00-Uvod"> Úvod</a>
