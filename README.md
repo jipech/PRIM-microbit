@@ -61,12 +61,12 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <li>Použití vestavěného kompasu
 <li>Měření magnetického pole
 </ul>
-<li><a href="https://jipech/PRIM-microbit/tree/master/05-Sit">Propojení micro:bitů v síti</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/05-Sit">Propojení micro:bitů v síti</a>
 <ul>
 <li>Přímé propojení pomocí kabelu
 <li>Bezdrátové propojení pomocí rádia
 </ul>
-<li><a href="https://jipech/PRIM-microbit/tree/master/06-Periferie">Práce s perifériemi</a>
+<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/06-Periferie">Práce s perifériemi</a>
 <ul>
 <li>Ovládání trojbarevné diody
 <li>Měření teploty pomocí externího čidla
