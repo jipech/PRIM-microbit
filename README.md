@@ -1,6 +1,6 @@
  <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>Robotika: programujeme Micro:bit pomocí Pythonu</h1>
-<p>Tato učebnice je podobná učebnici <a href="https://github.com/Nowis75/PRIM"> Robotika: programujeme Arduino </a> na kterou vede následující odkaz. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou učebnic (ne obsah) je prakticky stejná.</p>
+<p>Tato učebnice je podobná učebnici <a href="https://github.com/Nowis75/PRIM"> Robotika: programujeme Arduino </a>. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou učebnic (ne obsah) je prakticky stejná.</p>
 
 
 <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNICÍ</h2><p>
