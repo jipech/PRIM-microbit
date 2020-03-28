@@ -1,8 +1,3 @@
-# Magic 8 ball by Nicholas Tollervey. February 2016.
-#
-# Ask a question then shake.
-#
-# This program has been placed into the public domain.
 from microbit import *
 import random
 
@@ -27,7 +22,7 @@ answers = [
 
 while True:
     display.show('8')
-    if accelerometer.was_gesture('shake'):
+    if accelerometer.was_gesture("shake"):
         display.clear()
         sleep(1000)
         display.scroll(random.choice(answers))

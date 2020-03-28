@@ -1,6 +1,5 @@
 from microbit import *
 import music
-
 while True:
     if button_a.is_pressed():
         display.show(Image.HAPPY)
