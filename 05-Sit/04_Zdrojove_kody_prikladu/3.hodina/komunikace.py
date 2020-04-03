@@ -5,7 +5,7 @@ while True:
         display.show(Image.HAPPY)
     else:
         display.clear()
-    if button_a.is_pressed():
+    if button_a.was_pressed():
         pin2.write_digital(1)
     else:
         pin2.write_digital(0)
