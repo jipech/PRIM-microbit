@@ -2,8 +2,12 @@
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>Robotika: programujeme Micro:bit pomocí Pythonu</h1>
 <p>Tato učebnice je podobná učebnici <a href="https://github.com/Nowis75/PRIM"> Robotika: programujeme Arduino </a>. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou učebnic (ne obsah) je prakticky stejná.</p>
 
-
-<h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNICÍ</h2><p>
+<H2> KDE ZAČÍT </H2>
+<p>Nevíte-li kde začít stáhněte si a otevřete soubor:
+<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.pdf">ucebnice.pdf</a>.</p>
+<p>Stažení všech souborů:
+<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.rar">ucebnice.rar</a>.</p>
+<h2>KRÁTKÉ SEZNÁMENÍ, SE STRUKTUROU UČEBNICE</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
 <p>
 Každá složka lekce je rozdělena na dílčí podsložky, které mají následující strukturu:<br>
