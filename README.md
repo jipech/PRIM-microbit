@@ -1,6 +1,7 @@
  <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>Robotika: programujeme Micro:bit pomocí Pythonu</h1>
 <p>Tato učebnice je podobná učebnici <a href="https://github.com/Nowis75/PRIM"> Robotika: programujeme Arduino </a>. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou učebnic (ne obsah) je prakticky stejná.</p>
+     <p>Tato verze je zakonzervovaná ve stavu k 30.6.2020 a odpovídá archivům a pdf verzi. Pro verzi, ve které jsou opravy a úpravy pro Micro:bit klikněte sem <a href="https://github.com/jipech/Microbit2">https://github.com/jipech/Microbit2</a></p>
 
 <H2> KDE ZAČÍT </H2>
 <p>Nevíte-li kde začít stáhněte si a otevřete soubor:
