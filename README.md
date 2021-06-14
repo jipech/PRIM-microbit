@@ -6,9 +6,6 @@
 <H2> KDE ZAČÍT </H2>
 <p>Nevíte-li kde začít stáhněte si a otevřete soubor:
 <a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.pdf">ucebnice.pdf</a>.</p>
-<p>Stažení všech souborů:
-<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.part1.rar">ucebnice.part1.rar</a> a
-<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.part2.rar">ucebnice.part2.rar</a>.</p>
 <h2>KRÁTKÉ SEZNÁMENÍ, SE STRUKTUROU UČEBNICE</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
 <p>
